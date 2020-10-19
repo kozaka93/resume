@@ -1,4 +1,4 @@
-Anna Kozak
+# Anna Kozak
 
 ## Education
 
@@ -38,6 +38,8 @@ Bachelor’s Thesis: The Hermite polynomials - properties and applications.
 * 10.2020, Warsaw, Poland - Presentation "Explainable AI - możliwości i ograniczenia" during Stowarzyszenie.AI Meetup
 
 * 09.2019, Warsaw, Poland - Presentation [vivo: Is it Victoria In Variable impOrtance detection?](https://github.com/WhyR2019/presentations/blob/master/Lightnings/vivo.pdf) during the Why R? 2019 Conference
+
+* 10.2020, Warsaw, Poland - Presentation "What are you paying for when buying a house?" during the Data Science Summit 2020
 
 ## Posters
 
